@@ -2,6 +2,7 @@
   "expo": {
     "name": "Attendance Tracker",
     "slug": "attendance-tracker",
+    "extra": {"eas": {"projectId": "e023878b-d430-404c-9426-670a67be2cf7"}},
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

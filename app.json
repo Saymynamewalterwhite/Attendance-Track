@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Attendance Tracker",
-    "slug": "attendance-tracker",
+    "slug": "attendance-track",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
